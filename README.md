@@ -4,7 +4,7 @@
 - ohmyzsh, powerlevel10k
 
 # Preview
-![](./img/22-20-51-00.png)
+![](./preview.png)
 
 # Install Script
 > Probably won't work!!
